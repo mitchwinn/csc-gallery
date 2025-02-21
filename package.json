@@ -6,7 +6,7 @@
   "homepage": "https://mitchwinn.github.io/csc-gallery/",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/csc/",
+    "build": "vite build --base=/csc-gallery/",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy" : "npm run build",
